@@ -3,7 +3,7 @@ body{
     color: white;
 }
 img{
-    border: 2px solid white);
+    border: 2px solid white;
     width: 100px;
     border-radius: 100%;
     margin-left: 70px;
@@ -42,6 +42,6 @@ ul li{
     background-color: rgb(59, 58, 58);
     margin: 8px 30px 10px 0px;
     border-radius: 10px;
-    text-decoration: ;
+    text-decoration: none;
 }
 
